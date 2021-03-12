@@ -6,3 +6,5 @@ copy first
 copy second
 copy third
 
+last lines
+second last lines
